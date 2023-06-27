@@ -1,4 +1,3 @@
-# nest.js
 
 How to create a project in nestjs with Mysql_typeorm.
 
